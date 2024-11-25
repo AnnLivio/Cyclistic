@@ -19,8 +19,6 @@ Tres preguntas guiarán el futuro programa de marketing:
 ## Creación de un informe con los siguientes entregables:
 + Una instrucción clara de la tarea empresarial
 + Una descripción de todas las fuentes de datos utilizadas
-
-`Octubre de 2024`
 + Documentación de todas las limpiezas y manipulaciones de datos
 + Un resumen de tu análisis
 + Visualizaciones de respaldo y hallazgos clave
