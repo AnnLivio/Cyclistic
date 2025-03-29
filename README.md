@@ -10,7 +10,7 @@ Hasta ahora, la estrategia de marketing de Cyclistic se basaba en la construcci�
 
 Los analistas financieros de Cyclistic llegaron a la conclusión de que los miembros anuales son mucho más rentables que los ciclistas ocasionales. Aunque la flexibilidad de precios ayuda a Cyclistic a atraer más clientes, Moreno cree que maximizar el número de miembros anuales será clave para el crecimiento futuro. En lugar de crear una campaña de marketing que apunte a todos los clientes nuevos, Moreno cree que hay muchas posibilidades de convertir a los ciclistas ocasionales en miembros. Ella señala que los ciclistas ocasionales ya conocen el programa de Cyclistic y han elegido a Cyclistic para sus necesidades de movilidad.
 
-## Preguntar
+## Preguntas
 Tres preguntas guiarán el futuro programa de marketing:
 ¿En qué se diferencian los socios anuales y los ciclistas ocasionales con respecto al uso de las bicicletas de Cyclistic?
 ¿Por qué los ciclistas ocasionales comprarían membresías anuales de Cyclistic?
